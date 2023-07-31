@@ -1,0 +1,7 @@
+body {
+    background-image: url(img\fundo-img.png);
+    background-size: cover; /* Para cobrir todo o fundo */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-position: center; /* Centraliza a imagem no fundo */
+  }
+  

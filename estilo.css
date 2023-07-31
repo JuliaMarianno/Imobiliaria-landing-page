@@ -1,0 +1,175 @@
+body {
+  background-image: url(img/fundo-img.png);
+  width: 345px;
+  height: 631px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: inter;
+
+  }
+
+/* Estilo do cabeçalho */
+header {
+  background-color: none;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Estilo do logotipo do cabeçalho */
+header img {
+  max-width: 200px;
+}
+
+
+/* Estilo do título do cabeçalho */
+header h1 {
+  font-size: 32px;
+  color: #fff;
+  margin-top: 20px;
+  font-size: 32px;
+    color: #fff;
+    margin-top: 20px;
+    position: absolute;
+    left: 206px;
+    top: 136px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+/* Estilo do sub-título do cabeçalho */
+header h3 {
+  color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 500;
+  font-weight: 00;
+  line-height: normal;
+  letter-spacing: -1.44px;
+  position: absolute;
+  top: 281px;
+  line-height: 29px;
+  left: 206px;
+}
+
+
+/* Estilo do formulário */
+.formulario {
+  background: #1F1850;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 697px;
+  top: 0px;
+  height: 572px;
+  /* width: 542px; */
+  width: 504px;
+  /* height: 608px; */
+}
+
+/* Estilo do título do formulário */
+.formulario h1 {
+
+  margin-bottom: 10px;
+  color: #FFF;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+
+/* Estilo do sub-título do formulário */
+.formulario h4 {
+  margin-bottom: 14px;
+  color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: normal;
+  letter-spacing: 0.4px;
+}
+
+
+/* Estilo das etiquetas (labels) */
+.formulario label {
+  color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0.10px;
+}
+
+/* Estilo dos campos de entrada (inputs) */
+.formulario input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  width: 100%;
+  padding: 11px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  margin-bottom: 22px;
+  border-radius: 4px;
+  background: #D9D9D9;
+  width: 457px;
+  height: 15px;
+}
+
+
+/* Estilo do botão de envio */
+.formulario button {
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 239px;
+  height: 44px;
+  border-radius: 25px;
+  background: #C09527;
+  position: absolute;
+    top: 298px;
+    left: 127px;
+}
+
+
+/* Estilo do botão de envio ao passar o mouse */
+.formulario button:hover {
+  background-color: #ff9900;
+}
+form{
+  position: absolute;
+    top: 232px;
+    left: 29px;
+}
+
+.imagem-logo{
+  position: absolute;
+    top: 9px;
+    left: 352px;
+}
+
